@@ -1,4 +1,11 @@
-# Welcome
+## 06/01/2026
+The Habbo White House has opened under `Reichsprasident`, and with that comes an excuse for me to log back in!
+
+The only vaguely maintained thing on here right now is [habboRedirects](https://github.com/NoahC500-Habbo-Archive/habboRedirects/): a simple web document used to open my Habbo Firefox container. Pre-December 2025 I used a number of microsites hosted by Glitch (RIP) with a similar approach.
+
+I intend on figuring out TeX (yes… Habbo is my excuse lol) and writing templates, etc., for House/US-style bills. These will appear on here for others' reference if I do. This will probably be made redundant when we get a proper site up and running, but I don't mind.
+
+## Original notice
 All my Habbo-related repos have been moved to this organisation to clean up my main GitHub account.
 The following are/were private ([email me](mailto:noah.habbowh@gmail.com) if you require or want access):
 * [NoahC500-Habbo-Archive/habbo-folder](https://github.com/NoahC500-Habbo-Archive/habbo-folder/) &ndash; Contains various userscripts, maps, handbooks, and notes that I created at HabboUK & HabGov.

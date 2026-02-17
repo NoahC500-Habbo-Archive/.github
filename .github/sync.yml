@@ -1,0 +1,9 @@
+user/repository2:
+
+group:
+  repos: |
+    NoahC500-Habbo-Archive/.github
+    Noah-Habbo/.github
+  files:
+    - source: profile/README.md
+    dest: README.md

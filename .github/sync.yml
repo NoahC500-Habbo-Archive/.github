@@ -6,4 +6,4 @@ group:
     Noah-Habbo/.github
   files:
     - source: profile/README.md
-    dest: README.md
+      dest: README.md

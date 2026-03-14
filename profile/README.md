@@ -1,4 +1,7 @@
-## 06/01/2026
+## 2026-03-14
+All my Habbo stuff will slowly be getting moved to [Codeberg/NoahC500](https://codeberg.org/NoahC500).
+
+## 2026-01-06
 The Habbo White House has opened under `Reichsprasident`,\* and with that comes an excuse for me to log back in!
 
 The only vaguely maintained thing on here right now is [habboRedirects](https://github.com/NoahC500-Habbo-Archive/habboRedirects/): a simple web document used to open my Habbo Firefox container. Pre-December 2025 I used a number of microsites hosted by Glitch (RIP) with a similar approach.
